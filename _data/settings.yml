@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.pondteamrealestate.com/
+  second_CTA_URL: http://pondteamrealestate.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a San Diego Home?"
     CTA_text2: "Search the entire MLS for your San Diego home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.pondteamrealestate.com/
+    CTA_url2: http://pondteamrealestate.com/
 
 lender:
   show_section: false
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#f5e4c6'
 
 buttons:
   button_radius_number: 0
