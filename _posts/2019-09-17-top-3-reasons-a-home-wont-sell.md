@@ -8,7 +8,7 @@ excerpt: >-
   There are many reasons a listing might fail to sell, and today we’ll go over
   the top three.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Katie+Pond/Top+3+Reasons+a+Home+Wont+Sell.mp4
+  https://vyralmarketing.s3.amazonaws.com/Katie+Pond/Top+3+Reasons+a+Home+Wont+Sell+(1).mp4
 pullquote: >-
   You need to declutter, depersonalize, and stage your home if you want to spark
   buyers’ interest.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/katie-pond-3-reasons-why-a-home-wouldnt-sell-youtube.png
-youtube_code: nkoAuOQ6cUs
+youtube_code: WNaaHecuBpk
 ---
 
 {% include youtube.html %}
