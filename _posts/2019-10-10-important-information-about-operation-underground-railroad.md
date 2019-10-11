@@ -15,24 +15,24 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/railyt.jpg
-youtube_code: aApta7XLasg
+youtube_code: '-xt7g9c2N6g'
 ---
 
 {% include youtube.html %}
 
-Today we want to tell you about how you can make you move a miracle. **Warning: We’re going to be discussing some sensitive material.&nbsp;**
+Today we want to take your attention away from real estate to focus on an organization that is close to our hearts. **Before we do, please be aware that we’re going to be discussing some sensitive material.&nbsp;**
 
-There’s something incredibly alarming going on in our city and all across the world. Children are being enslaved and abused in a multi-billion dollar sex trafficking industry. We recently became aware of how heinous and rampant this problem is, and we were so anguished knowing children were being harmed in this way, that we resolved to do something about it.&nbsp;
+This is a challenging subject to discuss, but an important one, too. There’s something incredibly alarming going on in our city and all across the world: Children are being enslaved and abused in a multi-billion dollar sex trafficking industry. After becoming aware of how prevalent this problem truly is, our team has resolved to do our part to help fight back against it.&nbsp;
 
-So, we’ve committed to donate 10% of every transaction we do to Operation Underground Railroad. Every $3,400 donated helps save a child’s life. Operation Underground Railroad is a nonprofit made up of ex-CIA and military personnel devoted to stopping sex trafficking around the globe. I**n the five years they’ve been around they’ve saved over 2,500 children’s lives and assisted in the arrest 1,500 sex traffickers.&nbsp;**
+We’ve committed to donate 10% of every transaction we do to Operation Underground Railroad—**a nonprofit made up of ex-CIA and military personnel** devoted to stopping sex trafficking around the globe. In the five years they’ve been around they’ve saved over 2,500 children’s lives and assisted in the arrest 1,500 sex traffickers.&nbsp;
 
 {% include pullquote.html %}
 
-This is not a problem happening somewhere else. San Diego consistently ranks as one of the top 10 cities in the United States for sex trafficking.&nbsp;
+Sex trafficking is not a far-removed problem from our city, either. San Diego consistently ranks as one of the top 10 cities in the United States with the highest rates of sex trafficking.&nbsp;
 
-You can find out more at [ourrescue.org.](http://ourrescue.org/){: target="_blank"}
+You can find out more about Operation Underground Railroad by visiting [ourrescue.org](http://ourrescue.org){: target="_blank"}.
 
-Our job is to assist families with one of the most thrilling times in life, when you're buying, selling a home, and moving. We wanted something positive to come out of those transactions to help families who are in the roughest times of their lives. We wanted our partnership with our home sellers and homebuyers to move on after that transaction to do something good in our community and do something good in the world, a ripple effect. **When you partner with the Pond Team for your real estate needs, you also help save the lives of children around the world and in our community.** Thank you\!
+And if you would like to donate directly to Operation Underground Railroad, [please click here.](https://my.ourrescue.org/products/DONATE-RECURRING/willyoucometoourrescue){: target="_blank"} Every $3,400 donated helps save a child’s life, so each donation truly makes a difference.
 
 If you have any questions about Operation Underground Railroad, or anything concerning real estate, please don’t hesitate to call or email us, we would love to help you.&nbsp;<br>&nbsp;
 
