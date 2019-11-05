@@ -1,10 +1,9 @@
 ---
 layout: post
 title: How to Make Your Table Decor Pop This Holiday Season
-date: 2019-11-04 15:52:52
+date: 2019-11-04 15:52:00
 tags:
   - Real Estate
-  - Homeowner Tips
 excerpt: >-
   Holiday table decor can seem tricky to perfect, so we recently brought in an
   expert to share a few design tips.
@@ -17,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ou62hQi9DX4
+youtube_code: nuOl5AKqZno
 ---
 
 {% include youtube.html %}
