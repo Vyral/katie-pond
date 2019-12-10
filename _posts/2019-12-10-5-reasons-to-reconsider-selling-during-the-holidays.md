@@ -5,10 +5,10 @@ date: 2019-12-10 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  https://vyralmarketing.s3.amazonaws.com/Katie+Pond/5+Reasons+to+Reconsider+Selling+During+the+Holidays.mp4
-enclosure: >-
   Today, let’s bust some myths about the holiday housing market. Is it true you
   should avoid listing during this time of year?
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Katie+Pond/5+Reasons+to+Reconsider+Selling+During+the+Holidays.mp4
 pullquote: >-
   Though there may be fewer buyers during the holiday season, these determined
   few have strong motivations for finding a home, like job relocation or other
