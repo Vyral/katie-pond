@@ -31,6 +31,6 @@ The sympathetic breath is a faster breath that travels through the mouth and int
 
 **Starting at 3:01 in the video above, you can see a demonstration of how to do this.** The two of us perform 10 super-ventilated, accelerated breathes, inhaling through the nose and exhaling through the mouth. To start, our inhales and exhales each last four seconds, and after each repetition, we lengthen our exhale by two seconds. After each exhale, we also hold our breath for a short time to allow our nervous system to calm itself. By the time we reach 12-, 14-, and 16-second exhales, we’re in a more centered, balanced, and relaxed state.&nbsp;
 
-When trying this exercise yourself, feel free to adjust the parameters of it. If you want to know about any of Reis’ upcoming workshops, you can visit the website [ourbreathcollective.com](ourbreathcollective.com){: target="_blank"}.&nbsp;
+When trying this exercise yourself, feel free to adjust the parameters of it. If you want to know about any of Reis’ upcoming workshops, you can visit the website [https://www.ourbreathcollective.com/](https://www.ourbreathcollective.com/){: target="_blank"}.&nbsp;
 
 If you have any questions, whether it’s regarding this topic or the latest happenings in the real estate world, feel free to give me a call or shoot me an email. I’d be happy to help you.
