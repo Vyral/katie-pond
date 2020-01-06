@@ -8,7 +8,7 @@ excerpt: >-
   I have a breathing technique to share with you that will help you combat the
   daily stresses of life.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Katie+Pond/Using+Breathwork+to+Combat+the+Daily+Stresses+of+Life.mp4
+  https://vyralmarketing.s3.amazonaws.com/Katie+Pond/Using+Breathwork+to+Combat+the+Daily+Stresses+of+Life+(1).mp4
 pullquote: >-
   If you want to be more relaxed, you need to “lean” into your stress by
   charging your breath.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/breathing-yt.jpg
-youtube_code: dT7Uek39-wY
+youtube_code: YKjWVefAzZE
 ---
 
 {% include youtube.html %}
