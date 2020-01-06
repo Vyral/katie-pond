@@ -21,7 +21,7 @@ youtube_code: dT7Uek39-wY
 
 {% include youtube.html %}
 
-Today I’m joined by Reis Paluso, a Breathwork expert, to talk about how to reduce stress through breathing. I attended one of Reis’ Wim Hof workshops a few years back, and what I learned has been instrumental in my approach to the daily stresses of life.&nbsp;
+Today I’m joined by Reis Paluso, a breathwork expert, to talk about how to reduce stress through breathing. I attended one of Reis’ Wim Hof workshops a few years back, and what I learned has been instrumental in my approach to the daily stresses of life.&nbsp;
 
 The No. 1 question Reis gets asked by people who attend his workshops is how to deal with stress. To answer that question, there are a couple of things to know about how our nervous system influences our breath. **Our nervous system has a sympathetic (i.e., flight-or-fight) and parasympathetic (rest-and-digest) nervous system**, and each system utilizes different breathing techniques.
 
