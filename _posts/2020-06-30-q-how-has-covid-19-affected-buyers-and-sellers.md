@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Has COVID-19 Affected Buyers and Sellers?'
+title: 'Q: How Can You Buy a New Home When You Already Have One to Sell?'
 date: 2020-06-30 17:58:44
 tags:
   - Market Update
@@ -19,4 +19,4 @@ youtube_code: 0Ct16IMCs6g
 
 <p style="text-align:center"><em>If you need to sell before you buy, here’s how to do so expertly.</em></p>
 
-The coronavirus pandemic and subsequent quarantine have really made all of us re-evaluate our level of satisfaction with where we live. Those of us who decided our home doesn’t fit our needs are considering a change, but with change comes uncertainty. Now more than ever, people have a strong desire to move, but they want to sell their current home first before buying a new one to eliminate some of that uncertainty. There are multiple ways you can accomplish this feat. To learn how, watch the short video above.
+The pandemic and subsequent quarantine have really made all of us re-evaluate our level of satisfaction with where we live. Those of us who decided our home doesn’t fit our needs are considering a change, but with change comes uncertainty. Although we’re in a strong seller’s market, the uncertainty that COVID-19 brings to buyers and sellers alike means that it’s even more important to have a strategy in place if you need to both sell your current home and buy a new one. There are multiple ways you can accomplish this feat. To learn how, watch the short video above.
